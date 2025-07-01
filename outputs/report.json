@@ -1,0 +1,10 @@
+{
+    "timestamp": "2025-07-01 10:02:33",
+    "target": "127.0.0.1",
+    "ssh_banner": "SSH-2.0-OpenSSH_10.0p2 Debian-5",
+    "root_login": "[!] PermitRootLogin directive not found.",
+    "permission_issue": "[+] Permissions are secure (600)",
+    "key_issues": [
+        "[!] Key #1: DSA keys are weak (ssh-dss)"
+    ]
+}
