@@ -2,7 +2,7 @@
 
 A lightweight Python tool for auditing SSH security settings on a local or remote Linux server.
 
-![demo](screenshots/demo.png)
+![demo](screenshots/demo_cli.png)
 
 ## 🚀 Features
 
